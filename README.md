@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm [Kenny Fairris](http://kennyfairris.dev/)
+
+I'm a software engineer and front-end web developer.
 
 <!--
 **kfairris/kfairris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a small business website at https://fastfit.kennyfairris.dev/
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript and WordPress
 
-- 👯 I’m looking to collaborate on ...
-
-- 📫 How to reach me: [Twitter](https://twitter.com/kfairris)
+- 📫 How to reach me: [Twitter](https://twitter.com/kfairris) DMs open! 
