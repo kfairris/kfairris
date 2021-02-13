@@ -1,3 +1,5 @@
+![Kenny Fairris Logo](https://pbs.twimg.com/profile_banners/14788391/1611267755/1500x500)
+
 ### Hi, I'm [Kenny Fairris](http://kennyfairris.dev/)
 
 I'm a software engineer and front-end web developer.
