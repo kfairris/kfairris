@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a small business website at https://fastfit.kennyfairris.dev/
+- 🔭 I’m currently working on a small business website at https://fastfit.club
 
 - 🌱 I’m currently learning Javascript and WordPress
 
