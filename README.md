@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a small business website at https://fastfit.club
 
-- 🌱 I’m currently learning Javascript and WordPress
+- 🌱 I’m currently learning Javascript, React
 
-- 📫 How to reach me: [Twitter](https://twitter.com/kfairris) DMs open! 
+- 📫 How to reach me: [Twitter](https://twitter.com/CodeWithKenny) DMs open! 
